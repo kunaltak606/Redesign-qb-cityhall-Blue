@@ -32,7 +32,7 @@ ensure qb-cityhall
 ## Screenshots
 ![City Services](https://i.imgur.com/eR7nxvw.png)
 ![Request Birth Certificate](https://i.imgur.com/8ORuxo0.png)
-![Apply For a Job](https://imgur.com/8ORuxo0)
+![Apply For a Job](https://i.imgur.com/xPI4tcq.png)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
