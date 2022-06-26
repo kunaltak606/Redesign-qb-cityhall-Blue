@@ -28,7 +28,6 @@ ensure qb-target # Optional
 ensure qb-phone
 ensure qb-cityhall
 ```
-![City Services](https://streamable.com/ylxqg0)
 
 ## Screenshots
 ![City Services](https://i.imgur.com/eR7nxvw.png)
