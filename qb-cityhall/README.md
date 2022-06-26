@@ -30,11 +30,9 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-![City Services](https://i.imgur.com/l6ZRlXP.png)
-![Request Birth Certificate](https://i.imgur.com/zJRiuDI.png)
-![Request Driver License](https://i.imgur.com/2scxBew.png)
-![Request Weapon License](https://i.imgur.com/pSudfVl.png)
-![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
+![City Services](https://i.imgur.com/eR7nxvw.png)
+![Request Birth Certificate](https://i.imgur.com/8ORuxo0.png)
+![Apply For a Job](https://imgur.com/8ORuxo0)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
